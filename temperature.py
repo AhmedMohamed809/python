@@ -6,4 +6,6 @@ elif temp < 10 :
     print("OH it's a cold day ! ")
 elif temp >10:
     print("OH it's cool day ! ")
-print("Done ")
+else :
+    print("Done ")
+    
