@@ -14,3 +14,8 @@ print(len(names))
 # for loop
 for i in names:
     print(i)
+#tuples
+numbers = (1,2,4)
+for i in numbers:
+    print(i)
+print(numbers)
