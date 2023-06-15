@@ -11,3 +11,6 @@ names.remove("Alaa")
 print(names)  
 print("Ahmed" in names)
 print(len(names))
+# for loop
+for i in names:
+    print(i)
