@@ -8,3 +8,4 @@ for i in numbers:
 print("the sum of the arry is : "+str(result))
 average= result / len(numbers)
 print("average is  :" + str(average))
+print(numbers[0:3])
