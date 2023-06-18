@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proven-gasket-390210",
+  "private_key_id": "0b89b880be59a365834340fdc450787dc80cda69",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIcvK8a7CgjRJu\nTWf7584ZBXUQzY0eytx1frtA3JlF1IyolatqzbyJM2mnESPaZkAArJgXfX0n4twD\n+dVBQfXHcWPTp+Pb9cr89fpi8TUBzh+solGG5JJ9Y/qaha1Tzd+gYYSOKjYfNnU/\n+hRjV+AJK+qPrZ7Arl+w9WftqjLCUYf9wrQ1ouHxzbv/CH3W1MTOft5FLxlxdPQT\nGa13DDyYd0WLd//1sqRjgCXivV+r1aPaYK2XYpCsUgoenY4mb4ZmBirsVCyfXrYq\nxRnH6O4VXK1tf2EMBkrio+S5FIYioiorrKBcDEe5tgQ0YKifRALnE9r8pGYHrKnV\n2GQPTairAgMBAAECggEAAL7ejpPI5ATpso99JcIH0Yc8+dmQCORwvQY4WD2mIE0P\nZrlvy2f7u1Bz33XAKzxVqur5biihQgIHyD4oWK2QDcgXWEYfNdnbMuU3Bea7AzSh\nJa94Qz0vfWHo+UJR4KZOshi3EeRNiJ4wFZ04cM8UVFRnaVXdJMQGMz/D+IFW3oh3\naKUlck98XqtbP9Y8HnboiQXwAlpzKWdelPbVYuyQpYe5s9YVQRlxvEapr5Z3gFpS\n0C8Fy8fGHetqBTKOgplMV2q1o9i6npRRpYhEzKaVWPWTpPXcf518vbH7WegdKpEq\nU3RRYA/SzKVtrFysSQP1DlRxdlmzL2tV26/OBxDBmQKBgQD7CwEVMpwScQ8TYGqe\nttGuqd5gzbI+ZsOn74AjauCgUpPXB6v6uHXF7OPEfLMfNQ/h+DGWIwgevM4CUI+P\nIxgN7y6kh2FpzV6mWxKznFxXdNNTifMHpfS4qo2QvoyXe9/NDGsAStLGO3KJxg+0\nAx3/EJBupGOj81+/xzJGarTeBQKBgQDMaDJg0HJs8l7GObIIZceMzcYZzHk+uDif\nj2mCYqigxxKwAVDkvA9RypxCRsdFLV0M4fPRiscf8KeOoo2d1HJaY6SSfj/nVVYu\nV4AgihES3cS9F11BeKngTkU2xYip1idK8QTQOAiyhQ1sHDNbC9vIFJh7v6VV3fPX\nxvHd4VR67wKBgQCfj8v9ZDCNDC1P3I2IGZ1GzhNZJgSv4vNjLzgbytfBLxtmpiqq\nbkn1Jm9SuQvEvx48O1uRGO0VVF4AXKISkXS9jpPv4ViKPg114RcO8EhFEi0rwNem\nudXE9iqKoIKN2h9Snhz4j5ZOhwRzC195xC1xrF6Q5I2sbIkkRQDwfuw83QKBgQDC\nO6TbcFe7BNhgHkT5S9XCC2rZ6v2vRpivrjQBLMS1+lTcoHOA1t7rxs6S//Ss3H1W\nF4N7MxciV6iwlfBh8JU1JQgmGAebR/DbmlPrF6c/uTIQyJnZ89Hgjh+g+zVwxUmT\nIdGEFirVkC7/8xAtzOfsiP2YYbS3EnB6MtZ0E4EWSwKBgQD1tRxr/mZP98Psk6Bq\nI+Q+qPJO11vhsTCpYcQQN9GD54rib0xB2Za0xZ8UwGLad7qWxga98DQeuYNC81NV\nmviKjmsfNjSHwzVYcpZVYNJojdx40hNhTHO1/t1I6UEKKCHLPOer4Adk3Tw39Y4f\nNwgYVdlAvV0masygYfTh41y2dA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "accessgoogleapi@proven-gasket-390210.iam.gserviceaccount.com",
+  "client_id": "107290481997845892805",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accessgoogleapi%40proven-gasket-390210.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
