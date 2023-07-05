@@ -5,6 +5,7 @@ sg.theme('DarkTeal9')
 
 EXCEL_FILE= 'data.xlsx'
 df=pd.read_excel(EXCEL_FILE)
+
 layout = [ 
           [sg.Text("Please fill out the following fields: ")],
           [sg.Text('Name', size=(15,1)),sg.InputText(key='Name')],
